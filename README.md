@@ -43,7 +43,6 @@ Currently in my final year of a **Computer Science degree**, I love building pro
 ---
 
 ### 📫 Connect With Me
-- 💼 [LinkedIn](#)  (www.linkedin.com/in/anurag-bhandari-86ab9b1b6)
 - 🌐 [Portfolio](#) *(coming soon)*  
 - 🧰 [GitHub Projects](https://github.com/unknownstatic)
 
